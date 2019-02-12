@@ -1,0 +1,10 @@
+{"1.1.0",
+[{<<"rabbit_common">>,
+  {git,"https://github.com/MiniclipPortugal/rabbit_common.git",
+       {ref,"9569e84b3aaf1d54b0e8ff0f77d3ad33f95c0af0"}},
+  0},
+ {<<"time_compat">>,{pkg,<<"time_compat">>,<<"0.0.1">>},1}]}.
+[
+{pkg_hash,[
+ {<<"time_compat">>, <<"23FE0AD1FDF3B5B88821B2D04B4B5E865BF587AE66056D671FE0F53514ED8139">>}]}
+].

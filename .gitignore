@@ -5,3 +5,4 @@ deps
 .erlang.*
 .idea
 *.iml
+_build/
