@@ -1,10 +1,12 @@
 {"1.1.0",
 [{<<"rabbit_common">>,
-  {git,"https://github.com/MiniclipPortugal/rabbit_common.git",
-       {ref,"9569e84b3aaf1d54b0e8ff0f77d3ad33f95c0af0"}},
+  {git,"https://github.com/MiniclipPortugal/rabbit_common",
+       {ref,"0bdf4c2d2427701e636449f09a161db684e82d6b"}},
   0},
+ {<<"stacktrace_compat">>,{pkg,<<"stacktrace_compat">>,<<"1.1.1">>},1},
  {<<"time_compat">>,{pkg,<<"time_compat">>,<<"0.0.1">>},1}]}.
 [
 {pkg_hash,[
+ {<<"stacktrace_compat">>, <<"1C064BC1725F5BD6470853487AC7FBDA5D5E8745CE4B57D0AE71765C85B4414A">>},
  {<<"time_compat">>, <<"23FE0AD1FDF3B5B88821B2D04B4B5E865BF587AE66056D671FE0F53514ED8139">>}]}
 ].
