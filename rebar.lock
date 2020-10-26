@@ -1,6 +1,6 @@
 {"1.1.0",
 [{<<"rabbit_common">>,
-  {git,"https://github.com/MiniclipPortugal/rabbit_common",
+  {git,"https://github.com/miniclip/rabbit_common",
        {ref,"0bdf4c2d2427701e636449f09a161db684e82d6b"}},
   0},
  {<<"stacktrace_compat">>,{pkg,<<"stacktrace_compat">>,<<"1.1.1">>},1},
