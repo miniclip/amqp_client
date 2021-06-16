@@ -1,12 +1,15 @@
-{"1.1.0",
+{"1.2.0",
 [{<<"rabbit_common">>,
   {git,"https://github.com/miniclip/rabbit_common",
-       {ref,"0bdf4c2d2427701e636449f09a161db684e82d6b"}},
+       {ref,"e8a09bdb31950eb6f7862ce77563bea3d745adbd"}},
   0},
  {<<"stacktrace_compat">>,{pkg,<<"stacktrace_compat">>,<<"1.1.1">>},1},
  {<<"time_compat">>,{pkg,<<"time_compat">>,<<"0.0.1">>},1}]}.
 [
 {pkg_hash,[
  {<<"stacktrace_compat">>, <<"1C064BC1725F5BD6470853487AC7FBDA5D5E8745CE4B57D0AE71765C85B4414A">>},
- {<<"time_compat">>, <<"23FE0AD1FDF3B5B88821B2D04B4B5E865BF587AE66056D671FE0F53514ED8139">>}]}
+ {<<"time_compat">>, <<"23FE0AD1FDF3B5B88821B2D04B4B5E865BF587AE66056D671FE0F53514ED8139">>}]},
+{pkg_hash_ext,[
+ {<<"stacktrace_compat">>, <<"669EE186B9A9D93C6DBBA2DFE1E5E29B0306D55125EF1667318B1A41DC209DE5">>},
+ {<<"time_compat">>, <<"161D6B38AC9EE5AE508C76428A55B10CE44DD27FB43AB9722F702867086829E8">>}]}
 ].
